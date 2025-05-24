@@ -2,6 +2,14 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40"/> Hi, I'm Junaid Khan
 </h1>
 <details open>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-blueviolet?style=flat" />
+  <img src="https://img.shields.io/badge/Tools-Git%2C%20VSCode%2C%20AI-orange?style=flat" />
+  <img src="https://img.shields.io/badge/Stack-React%20%7C%20Node.js-yellowgreen?style=flat" />
+</p>
+
+---
 <summary><b>📫 Connect With Me</b></summary>
 
 <p align="center">
@@ -13,13 +21,6 @@
   </a>
 </p>
 </details>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-blueviolet?style=flat" />
-  <img src="https://img.shields.io/badge/Tools-Git%2C%20VSCode%2C%20AI-orange?style=flat" />
-  <img src="https://img.shields.io/badge/Stack-React%20%7C%20Node.js-yellowgreen?style=flat" />
-</p>
-
 ---
 
 <details open>
@@ -96,6 +97,6 @@
 </p>
 </details>
 
----
+
 
 
