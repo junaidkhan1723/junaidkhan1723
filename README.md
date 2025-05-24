@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./assets/HelloWave.gif" height="40"/> Hi, I'm [Your Name]
+  <img src="./assets/HelloWave.gif" height="40"/> Hi, I'm Junaid Khan
 </h1>
 
 <p align="center">
@@ -18,8 +18,8 @@
   <li>🛠️ I work with <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, and <strong>React</strong>.</li>
   <li>⚙️ I also dabble in backend development using <strong>Node.js</strong>.</li>
   <li>🧠 I'm learning how to integrate AI tools into my workflow to build smarter apps.</li>
-  <li>📬 Reach me at: <a href="mailto:youremail@example.com">youremail@example.com</a></li>
-  <li>📁 All my work lives on <a href="https://github.com/yourusername">GitHub</a></li>
+  <li>📬 Reach me at: <a href="pathanjunaid7888@gmail.com">youremail@example.com</a></li>
+  <li>📁 All my work lives on <a href="https://github.com/junaidkhan1723">GitHub</a></li>
 </ul>
 </details>
 
@@ -60,7 +60,7 @@
 <summary><b>📊 GitHub Stats</b></summary>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?junaidkhan1723=junaidkhan1723&show_icons=true&theme=radical" alt="junaidkhan1723 GitHub stats" />
 </p>
 
 <p align="center">
