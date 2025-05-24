@@ -1,7 +1,137 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,100:86A8E7,200:91EAE4&height=160&section=header&text=Junaid%20Khan&fontSize=50&fontAlignY=45&desc=Front-End%20Developer%20%7C%20React%20Enthusiast&descAlignY=70" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Junaid+Khan!;Front-End+Developer+Crafting+Beautiful+Web+Experiences;React+%7C+JavaScript+%7C+CSS+Animations;Pixel-Perfect+Designs+with+Modern+Tech" /> </p>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=junaidkhan1723&theme=algolia&margin-w=15&no-bg=true&no-frame=true" /> </p>
-<details open> <summary><b>👨‍💻 About Me</b></summary> <p align="center"> <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="320"/> </p> <ul> <li>🎨 <b>Front-End Developer</b> passionate about delivering intuitive, visually engaging user interfaces.</li> <li>💡 Expert in <b>HTML5</b>, <b>CSS3</b>, <b>JavaScript</b>, <b>React</b>, and <b>Bootstrap</b>.</li> <li>🌀 Bringing web pages to life with <b>CSS Animations</b> and micro-interactions.</li> <li>🔗 Experienced in <b>Node.js</b> for robust backend integration.</li> <li>🚀 Lifelong learner, currently exploring <b>Next.js</b> and advanced React patterns.</li> <li>🌐 Open to collaboration and innovative projects.</li> <li>📬 <b>Email:</b> <a href="mailto:patanjunaid7888@gmail.com">patanjunaid7888@gmail.com</a></li> <li>📁 <b>Portfolio & Projects:</b> <a href="https://github.com/junaidkhan1723">GitHub</a></li> </ul> </details>
-<details open> <summary><b>⚡ Animated Skillset</b></summary> <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,git,github,vscode,figma,ai" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=1ABC9C&center=true&vCenter=true&width=600&lines=HTML5+%7C+CSS3+%7C+JavaScript;React+%7C+Bootstrap+%7C+CSS+Animations;Node.js+%7C+Git+%7C+VSCode+%7C+AI+Tools" /> </p> <p align="center"> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/> </p> </details>
-<details open> <summary><b>📈 GitHub Stats & Activity</b></summary> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=junaidkhan1723&show_icons=true&theme=radical&hide_border=true" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=junaidkhan1723&theme=radical&hide_border=true" height="180"/> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidkhan1723&langs_count=8&theme=radical&layout=compact&hide_border=true" height="130"/> </div> </details>
-<details open> <summary><b>🌐 Connect With Me</b></summary> <p align="center"> <a href="https://www.linkedin.com/in/junaidkhan1723" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /> </a> <a href="mailto:patanjunaid7888@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /> </a> <a href="https://github.com/junaidkhan1723"> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /> </a> </p> </details>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:91EAE4,100:7F7FD5&height=120&section=footer"/> </p>
+
+    <h1 align="center">
+      <img
+        src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"
+        height="40"
+      />
+      Hi, I'm Junaid Khan
+    </h1>
+    <p align="center">
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=F7A41D&center=true&vCenter=true&width=600&lines=Front-End+Developer+%7C+React+Enthusiast;Crafting+beautiful%2C+interactive+UIs;Turning+ideas+into+digital+experiences;Let's+build+something+amazing+!"
+      />
+    </p>
+    <p align="center">
+      <img
+        src="https://img.shields.io/badge/Focus-Frontend%20Development-blueviolet?style=for-the-badge"
+      />
+      <img
+        src="https://img.shields.io/badge/Stack-React%20%7C%20Node.js-yellowgreen?style=for-the-badge"
+      />
+      <img
+        src="https://img.shields.io/badge/Tools-Git%2C%20VSCode%2C%20AI-orange?style=for-the-badge"
+      />
+      <img
+        src="https://komarev.com/ghpvc/?username=junaidkhan1723&style=for-the-badge&color=brightgreen"
+        alt="Profile views"
+      />
+    </p>
+
+    <details open>
+      <summary><b>👨‍💻 About Me</b></summary>
+      <div align="center">
+        <img
+          src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+          width="350"
+        />
+      </div>
+      <ul>
+        <li>
+          🎨 Passionate <b>Front-End Developer</b> focused on crafting seamless,
+          user-centric interfaces with pixel-perfect precision.
+        </li>
+        <li>
+          💡 Bringing web pages to life through <b>CSS Animations</b> and
+          engaging transitions.
+        </li>
+        <li>
+          🔧 Proficient in <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>,
+          <b>React</b>, and <b>Bootstrap</b>.
+        </li>
+        <li>
+          🛠️ Experienced with <b>Node.js</b> for building scalable server-side
+          logic.
+        </li>
+        <li>
+          🚀 Always exploring the latest in web technologies and design trends.
+        </li>
+        <li>🌱 Currently learning advanced React patterns and Next.js.</li>
+        <li>
+          📬 Reach me at:
+          <a href="mailto:patanjunaid7888@gmail.com"
+            >patanjunaid7888@gmail.com</a
+          >
+        </li>
+        <li>
+          📁 Explore my projects:
+          <a href="https://github.com/junaidkhan1723">GitHub</a>
+        </li>
+      </ul>
+    </details>
+
+    <details open>
+      <summary><b>⚡Skills & Tools</b></summary>
+      <p align="center">
+        <img
+          src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,git,github,vscode,figma,ai"
+        />
+      </p>
+      <p align="center">
+        <img
+          src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=1ABC9C&center=true&vCenter=true&width=600&lines=HTML5+%7C+CSS3+%7C+JavaScript;React+%7C+Bootstrap+%7C+CSS+Animations;Node.js+%7C+Git+%7C+VSCode+%7C+AI+Tools"
+        />
+      </p>
+      <p align="center">
+        <img
+          src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"
+          width="200"
+        />
+      </p>
+    </details>
+
+    <details open>
+      <summary><b>📈 GitHub Stats & Activity</b></summary>
+      <div align="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=junaidkhan1723&show_icons=true&theme=radical&hide_border=true"
+          height="180"
+        />
+        <img
+          src="https://github-readme-streak-stats.herokuapp.com/?user=junaidkhan1723&theme=radical&hide_border=true"
+          height="180"
+        />
+      </div>
+      <div align="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidkhan1723&langs_count=8&theme=radical&layout=compact&hide_border=true"
+          height="130"
+        />
+      </div>
+    </details>
+
+
+    <details open>
+      <summary><b>🌐 Connect With Me</b></summary>
+      <p align="center">
+        <a href="https://www.linkedin.com/in/junaidkhan1723" target="_blank">
+          <img
+            src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"
+          />
+        </a>
+        <a href="mailto:patanjunaid7888@gmail.com">
+          <img
+            src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"
+          />
+        </a>
+        <a href="https://github.com/junaidkhan1723">
+          <img
+            src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"
+          />
+        </a>
+      </p>
+    </details>
+    <p align="center">
+      <img
+        src="https://capsule-render.vercel.app/api?type=waving&color=0:91EAE4,100:7F7FD5&height=120&section=footer"
+      />
+    </p>
