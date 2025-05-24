@@ -1,6 +1,18 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40"/> Hi, I'm Junaid Khan
 </h1>
+<details open>
+<summary><b>📫 Connect With Me</b></summary>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/junaidkhan1723">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:patanjunaid7888@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
+</details>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Frontend%20Development-blueviolet?style=flat" />
@@ -86,15 +98,4 @@
 
 ---
 
-<details open>
-<summary><b>📫 Connect With Me</b></summary>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/junaidkhan1723">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:patanjunaid7888@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-</p>
-</details>
