@@ -14,12 +14,12 @@
 <summary><b>👋 About Me</b></summary>
 
 <ul>
-  <li>🌱 I'm a passionate <strong>Front-End Developer</strong> building clean and interactive UIs.</li>
-  <li>🛠️ I work with <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, and <strong>React</strong>.</li>
-  <li>⚙️ I also dabble in backend development using <strong>Node.js</strong>.</li>
-  <li>🧠 I'm learning how to integrate AI tools into my workflow to build smarter apps.</li>
-  <li>📬 Reach me at: <a href="pathanjunaid7888@gmail.com">youremail@example.com</a></li>
-  <li>📁 All my work lives on <a href="https://github.com/junaidkhan1723">GitHub</a></li>
+  <li>🌱 I'm a dedicated <strong>Front-End Developer</strong> passionate about building modern, responsive UIs.</li>
+  <li>🛠️ I work with <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>React</strong>, and <strong>Bootstrap</strong>.</li>
+  <li>✨ I add life to interfaces using <strong>CSS Animations</strong>.</li>
+  <li>⚙️ I also work with <strong>Node.js</strong> for backend logic.</li>
+  <li>📬 Reach me at: <a href="mailto:patanjunaid7888@gmail.com">patanjunaid7888@gmail.com</a></li>
+  <li>📁 Check out my projects on <a href="https://github.com/junaidkhan1723">GitHub</a>.</li>
 </ul>
 </details>
 
@@ -38,6 +38,8 @@
 <h3 align="center">Frontend</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Bootstrap-563d7c?logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS%20Animations-f06529?logo=css3&logoColor=white" />
 </p>
 
 <h3 align="center">Backend</h3>
@@ -60,15 +62,15 @@
 <summary><b>📊 GitHub Stats</b></summary>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?junaidkhan1723=junaidkhan1723&show_icons=true&theme=radical" alt="junaidkhan1723 GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=junaidkhan1723&show_icons=true&theme=radical" alt="junaidkhan1723's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junaidkhan1723&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&langs_count=10&theme=radical&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidkhan1723&langs_count=10&theme=radical&layout=compact" />
 </p>
 </details>
 
@@ -78,7 +80,7 @@
 <summary><b>💬 Developer Quote</b></summary>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A41D&width=435&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.;Front-end+is+not+just+design%2C+it's+architecture." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A41D&width=435&lines=Make+it+work%2C+make+it+right%2C+make+it+fast.;Great+frontend+is+clean+code+and+clear+design." />
 </p>
 </details>
 
@@ -88,13 +90,13 @@
 <summary><b>📫 Let's Connect</b></summary>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin">
+  <a href="https://www.linkedin.com/in/yourlinkedin/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/yourhandle">
     <img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:patanjunaid7888@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
