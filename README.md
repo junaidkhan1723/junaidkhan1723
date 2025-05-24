@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./assets/HelloWave.gif" height="40"/> Hi, I'm Junaid Khan
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40"/> Hi, I'm Junaid Khan
 </h1>
 
 <p align="center">
@@ -11,16 +11,26 @@
 ---
 
 <details open>
-<summary><b>👋 About Me</b></summary>
+<summary><b>👨‍💻 About Me</b></summary>
 
 <ul>
-  <li>🌱 I'm a dedicated <strong>Front-End Developer</strong> passionate about building modern, responsive UIs.</li>
-  <li>🛠️ I work with <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>React</strong>, and <strong>Bootstrap</strong>.</li>
-  <li>✨ I add life to interfaces using <strong>CSS Animations</strong>.</li>
-  <li>⚙️ I also work with <strong>Node.js</strong> for backend logic.</li>
+  <li>🎨 Front-End Developer passionate about crafting beautiful, user-centric interfaces.</li>
+  <li>🔧 Skilled in <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>React</strong>, and <strong>Bootstrap</strong>.</li>
+  <li>💡 I bring pages to life with <strong>CSS Animations</strong>.</li>
+  <li>🛠️ Familiar with <strong>Node.js</strong> for server-side logic.</li>
   <li>📬 Reach me at: <a href="mailto:patanjunaid7888@gmail.com">patanjunaid7888@gmail.com</a></li>
-  <li>📁 Check out my projects on <a href="https://github.com/junaidkhan1723">GitHub</a>.</li>
+  <li>📁 Projects on: <a href="https://github.com/junaidkhan1723">GitHub</a></li>
 </ul>
+</details>
+
+---
+
+<details open>
+<summary><b>⚡ Typing Animation</b></summary>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A41D&width=435&lines=Crafting+UI+with+precision+and+passion.;CSS+Animations+%7C+React+%7C+Clean+Design.;Turning+ideas+into+interactive+experiences." />
+</p>
 </details>
 
 ---
@@ -77,24 +87,11 @@
 ---
 
 <details open>
-<summary><b>💬 Developer Quote</b></summary>
+<summary><b>📫 Connect With Me</b></summary>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A41D&width=435&lines=Make+it+work%2C+make+it+right%2C+make+it+fast.;Great+frontend+is+clean+code+and+clear+design." />
-</p>
-</details>
-
----
-
-<details open>
-<summary><b>📫 Let's Connect</b></summary>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin/">
+  <a href="https://www.linkedin.com/in/junaidkhan1723">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/yourhandle">
-    <img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white" />
   </a>
   <a href="mailto:patanjunaid7888@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
