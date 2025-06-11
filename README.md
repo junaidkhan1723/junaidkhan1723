@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Frontend%20%26%20Backend-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Stack-React%2C%20Node.js%2C%20MongoDB-yellowgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tools-Git%2C%20VSCode%2C%20Postman%2C%20Notepad++-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tools-VSCode%2C%20Postman%2C%20Notepad++%2C%20AI-orange?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=junaidkhan1723&style=for-the-badge&color=brightgreen" alt="Profile views" />
 </p>
 
@@ -34,22 +34,22 @@
 
 ## 👨‍💻 About Me
 
-- 🎨 Passionate **Front-End Developer** focused on creating responsive, modern UIs.
-- 💡 Skilled at crafting engaging experiences with **React**, **CSS Animations**, and **JavaScript**.
-- 🔧 Experienced in full-stack development using **Node.js**, **Express.js**, and **MongoDB**.
-- 🚀 Currently learning **Next.js** and advanced React patterns to build production-ready apps.
+- 🎨 Passionate **Front-End Developer** focused on building responsive, modern UIs.
+- 💡 Crafting smooth experiences using **React**, **CSS Animations**, and **JavaScript**.
+- 🔧 Skilled in full-stack development with **Node.js**, **Express.js**, and **MongoDB**.
+- 🚀 Currently exploring **Next.js** and advanced React patterns.
 - 📬 Reach me at: [pathanjunaid7888@gmail.com](mailto:pathanjunaid7888@gmail.com)
 
 ---
 
 ## 💻 Tech Stack
 
-### 🖌️ Front-End
+### 🎨 Front-End Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma" />
 </p>
 
-### 🛠️ Back-End
+### 🛠️ Back-End Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
@@ -58,7 +58,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
   <img src="https://img.shields.io/badge/Notepad++-1B6AC6?style=for-the-badge&logo=notepadplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Tools-Enabled-ff6f00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Tools-Enabled-ff6f00?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
