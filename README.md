@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40"/>
   Hi, I'm Junaid Khan
@@ -9,8 +8,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stack-React%20%7C%20Node.js-yellowgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20%26%20Backend-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-React%2C%20Node.js%2C%20MongoDB-yellowgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tools-Git%2C%20VSCode%2C%20AI-orange?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=junaidkhan1723&style=for-the-badge&color=brightgreen" alt="Profile views" />
 </p>
@@ -18,6 +17,7 @@
 ---
 
 ## 🌐 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/junaidkhan1723" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
@@ -33,23 +33,36 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎨 Front-End Developer focused on clean, user-friendly interfaces.
-- 💡 Love building animated, responsive web apps.
-- 🔧 Tech Stack: **HTML**, **CSS**, **JavaScript**, **React**, **Bootstrap**.
-- 🛠️ Backend: **Node.js**, exploring **Express.js**.
-- 🚀 Constant learner, currently diving into **Next.js** and advanced React.
+
+- 🎨 Passionate **Front-End Developer** focused on clean, responsive, and user-friendly UIs.
+- 💡 I enjoy animating and adding interactivity to websites using **CSS** and **JavaScript**.
+- 🔧 Skilled in building full-stack apps with **React**, **Node.js**, **Express.js**, and **MongoDB**.
+- 🚀 Lifelong learner, currently exploring **Next.js** and advanced React patterns.
 - 📬 Reach me at: [pathanjunaid7888@gmail.com](mailto:pathanjunaid7888@gmail.com)
 
 ---
 
-## ⚡ Skillset
+## 💻 Tech Stack
+
+### 🖌️ Front-End
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,git,github,vscode,figma,ai" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma" />
+</p>
+
+### 🛠️ Back-End
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 🧰 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,ai" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=junaidkhan1723&show_icons=true&theme=radical&hide_border=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=junaidkhan1723&theme=radical&hide_border=true" height="180"/>
@@ -64,5 +77,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:91EAE4,100:7F7FD5&height=120&section=footer"/>
 </p>
-
-
