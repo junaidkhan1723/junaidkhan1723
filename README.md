@@ -56,7 +56,7 @@
 
 ### ⚙️ Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,ai,notepad++" />  
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,ai,notepad+" />  
 </p>
 
 ---
