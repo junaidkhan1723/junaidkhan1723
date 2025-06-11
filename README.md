@@ -56,9 +56,7 @@
 
 ### ⚙️ Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-  <img src="https://img.shields.io/badge/Notepad++-1B6AC6?style=for-the-badge&logo=notepadplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Tools-Enabled-ff6f00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,ai,notepad++" />  
 </p>
 
 ---
