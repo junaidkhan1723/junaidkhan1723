@@ -34,28 +34,19 @@
 
 ## 👨‍💻 About Me
 
-- 🎨 Passionate **Front-End Developer** focused on building responsive, modern UIs.
-- 💡 Crafting smooth experiences using **React**, **CSS Animations**, and **JavaScript**.
-- 🔧 Skilled in full-stack development with **Node.js**, **Express.js**, and **MongoDB**.
-- 🚀 Currently exploring **Next.js** and advanced React patterns.
-- 📬 Reach me at: [pathanjunaid7888@gmail.com](mailto:pathanjunaid7888@gmail.com)
+-  **Full Stack Developer** building responsive, modern UIs.
+-  Crafting smooth experiences using **React**, **CSS Animations**, and **JavaScript**.
+-  Skilled in full-stack development with **Node.js**, **Express.js**, and **MongoDB**.
+-  Currently exploring **Next.js** and advanced React patterns.
+-  Reach me at: [pathanjunaid7888@gmail.com](mailto:pathanjunaid7888@gmail.com)
 
 ---
 
 ## 💻 Tech Stack
 
-### 🎨 Front-End Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma" />
-</p>
-
-### 🛠️ Back-End Development
-<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### ⚙️ Tools & Platforms
-<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,ai" />
   <img src="https://img.shields.io/badge/Notepad++-1B6AC6?style=for-the-badge&logo=notepadplusplus&logoColor=white" />
 </p>
