@@ -58,8 +58,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=junaidkhan1723&show_icons=true&theme=radical&hide_border=true" height="180"/>
  <img src="https://github-readme-streak-stats-eight.vercel.app?user=junaidkhan1723&theme=radical&hide_border=true" height="180"/>
-
-
 </p>
 
 <p align="center">
