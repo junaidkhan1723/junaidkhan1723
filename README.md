@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=F7A41D&center=true&vCenter=true&width=600&lines=Front-End+Developer+%7C+React+Enthusiast;Crafting+beautiful%2C+interactive+UIs;Turning+ideas+into+digital+experiences" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=F7A41D&center=true&vCenter=true&width=600&lines=Front-End+Developer+%7C+React+%7CTailwindCSS;Crafting+beautiful%2C+interactive+UIs;Writing+Code+that+works...+eventually" />
 </p>
 
 <p align="center">
