@@ -2,22 +2,11 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40"/>
   Hi, I'm Junaid Khan
 </h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=F7A41D&center=true&vCenter=true&width=600&lines=Front-End+Developer+%7C+React+%7CTailwindCSS;Crafting+beautiful%2C+interactive+UIs;Writing+Code+that+works...+eventually" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Frontend%20%26%20Backend-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stack-React%2C%20Node.js%2C%20MongoDB-yellowgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tools-VSCode%2C%20Postman%2C%20Notepad++%2C%20AI-orange?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=junaidkhan1723&style=for-the-badge&color=brightgreen" alt="Profile views" />
-</p>
+<h3 align="center">Full-Stack Developer | JavaScript, React | Node.js, Express, MongoDB | Tailwind, Bootstrap</h3>
 
 ---
 
-## 🌐 Connect with Me
-
+<h3> 🌐 Connect with Me </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/junaidkhan1723" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
@@ -32,18 +21,15 @@
 
 ---
 
-## 👨‍💻 About Me
-
--  **Full Stack Developer** building responsive, modern UIs.
--  Crafting smooth experiences using **React**, **CSS Animations**, and **JavaScript**.
--  Skilled in full-stack development with **Node.js**, **Express.js**, and **MongoDB**.
--  Currently exploring **Next.js** and advanced React patterns.
--  Reach me at: [pathanjunaid7888@gmail.com](mailto:pathanjunaid7888@gmail.com)
-
+ ## About Me
+- Passionate about crafting clean, scalable, and user-focused web applications  
+- Experienced in **React, Node.js, Express, MongoDB, Tailwind, Bootstrap**  
+- Strong focus on performance, responsive design, and best practices  
+- Exploring **Next.js** and modern JavaScript patterns  
+- Reach me at: [pathanjunaid7888@gmail.com](mailto:pathanjunaid7888@gmail.com)  
 ---
 
 ## 💻 Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma" />
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
@@ -54,7 +40,6 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=junaidkhan1723&show_icons=true&theme=radical&hide_border=true" height="180"/>
  <img src="https://github-readme-streak-stats-eight.vercel.app?user=junaidkhan1723&theme=radical&hide_border=true" height="180"/>
