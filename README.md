@@ -22,21 +22,11 @@
 ---
 
  ## About Me
-- Passionate about crafting clean, scalable, and user-focused web applications  
+- Full-Stack Developer 
 - Experienced in **React, Node.js, Express, MongoDB, Tailwind, Bootstrap**  
 - Strong focus on performance, responsive design, and best practices  
 - Exploring **Next.js** and modern JavaScript patterns  
 - Reach me at: [pathanjunaid7888@gmail.com](mailto:pathanjunaid7888@gmail.com)  
----
-
-## 💻 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,ai" />
-  <img src="https://img.shields.io/badge/Notepad++-1B6AC6?style=for-the-badge&logo=notepadplusplus&logoColor=white" />
-</p>
-
 ---
 
 ## 📊 GitHub Stats
