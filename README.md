@@ -17,6 +17,9 @@
   <a href="https://github.com/junaidkhan1723">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   </a>
+ <a href="https://www.instagram.com/junaid_khan1723" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
 </p>
 
 ---
